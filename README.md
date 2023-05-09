@@ -8,7 +8,7 @@
   - Simulácia tenisového setu
 
 - #### Markovove_retazce.ipynb
-  - Algoritmus simulácie diskrétneho Markovového reťazca
+  - Algoritmus simulácie diskrétneho Markovovho reťazca
   - Problém vysoskoškoláka športovca
 
 - #### Poissonov_proces.ipynb
